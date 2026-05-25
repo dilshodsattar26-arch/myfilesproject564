@@ -1,0 +1,8 @@
+{
+    "name": "mainmanager-service",
+    "version": "1.0.564",
+    "private": false,
+    "environment": "production",
+    "build_id": 790,
+    "allow_public_access": true
+}
